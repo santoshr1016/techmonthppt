@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="897c34a9-3c9a-4f35-a8a6-1a886eabe3c1" name="Default" comment="" />
+    <list default="true" id="897c34a9-3c9a-4f35-a8a6-1a886eabe3c1" name="Default" comment="Add initial commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,16 +59,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generator_infinite_stream.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iteratorss/generator_infinite_stream.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="named_tuple_example1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Counter_prac/named_tuple_example1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,11 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readfile.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readfile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Counter_prac/readfile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -364,6 +366,14 @@
       <option name="presentableId" value="Default" />
       <updated>1522036136423</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add initial commit">
+      <created>1522247379882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522247379883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -398,6 +408,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -667,6 +681,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
